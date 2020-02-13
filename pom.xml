@@ -5,8 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-  	<module>huazhua-common</module>
   	<module>huazhu-manage</module>
+  	<module>huazhu-commmon</module>
   </modules>
   
   <!--稍后引入公共的jar包程序 -->

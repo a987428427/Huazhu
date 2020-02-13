@@ -5,9 +5,5 @@
     <artifactId>huazhu</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>huazhu-manage</artifactId>
-  <packaging>war</packaging>
-  
-  
-  	
+  <artifactId>huazhu-commmon</artifactId>
 </project>

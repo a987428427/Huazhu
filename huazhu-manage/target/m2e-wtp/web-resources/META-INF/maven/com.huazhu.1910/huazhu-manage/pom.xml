@@ -8,11 +8,6 @@
   <artifactId>huazhu-manage</artifactId>
   <packaging>war</packaging>
   
-  <dependencies>
-  	<dependency>
-  		<groupId>com.huazhu.1910</groupId>
-  		<artifactId>huazhua-common</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  </dependencies>
+  
+  	
 </project>
