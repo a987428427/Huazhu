@@ -25,9 +25,9 @@
 			<div class="footer-content">
 				<div class="content-left">
 					<div class="footer-logo">
-						<img class="logo-img" src="imgs/logo.png" >
+						<img class="logo-img" src="imgs/index_img/logo.png" >
 						<i class="logo-line"></i>
-						<img class="look-img" src="imgs/dnkss.png" >
+						<img class="look-img" src="imgs/index_img/dnkss.png" >
 					</div>
 					<p>花筑旅行网是旅悦集团旗下酒店官方预订平台，旗下品牌包含：花筑、索性、蔚徕、柏纳。更是涵盖目的地攻略、当地玩乐、旅拍交友等吃、住、行、游、购、娱于一体的真实旅途互动社区，后续将提供景点门票、机票、接车、保险、定制游等旅行产品打包服务。截止目前，旅悦集团旗下酒店品牌全球开店1100多家，覆盖中国、日本、韩国、泰国、印度、马来西亚、澳大利亚等10多个国家、200多个目的地，从经济实惠酒店到中高端特色酒店俱全，全方位满足客户个性化、多样化的出游住宿需求。</p>
 					<hr>
@@ -48,10 +48,10 @@
 						</li>
 						<li>
 							<strong>品牌介绍</strong><br>
-							<a href="#"><img src="imgs/hzx.png" style="width: 52px;height: 21px;"></a>
-							<a href="#"><img src="imgs/sxx.png" style="width: 45px;height: 21px;"></a>
-							<a href="#"><img src="imgs/ylx.png" style="width: 82px;height: 19px;"></a>
-							<a href="#"><img src="imgs/bnx.png" style="width: 90px;height: 14px;"></a>
+							<a href="#"><img src="imgs/index_img/hzx.png" style="width: 52px;height: 21px;"></a>
+							<a href="#"><img src="imgs/index_img/sxx.png" style="width: 45px;height: 21px;"></a>
+							<a href="#"><img src="imgs/index_img/ylx.png" style="width: 82px;height: 19px;"></a>
+							<a href="#"><img src="imgs/index_img/bnx.png" style="width: 90px;height: 14px;"></a>
 						</li>
 					</ul>
 				</div>
@@ -59,15 +59,15 @@
 					<h3>客服热线：<strong>400-898-7118</strong></h3>
 					<div class="qr-codes">
 						<dl>
-							<dt><img src="imgs/appqrcode.png" ></dt>
+							<dt><img src="imgs/index_img/appqrcode.png" ></dt>
 							<dd>下载花筑旅行APP</dd>
 						</dl>
 						<dl>
-							<dt><img src="imgs/appqrcode.png" ></dt>
+							<dt><img src="imgs/index_img/appqrcode.png" ></dt>
 							<dd>下载花筑旅行APP</dd>
 						</dl>
 						<dl>
-							<dt><img src="imgs/appqrcode.png" ></dt>
+							<dt><img src="imgs/index_img/appqrcode.png" ></dt>
 							<dd>下载花筑旅行APP</dd>
 						</dl>
 					</div>

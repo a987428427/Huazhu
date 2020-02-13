@@ -272,12 +272,12 @@
 				</div>
 				<div class="slave clearfix">
 
-					<div><img data-ind="0" src="hotel/a9a5d502-94ba-4307-83ed-03de4aab129b(1).jpg"></div>
-					<div><img data-ind="1" src="hotel/4e69059e-73ea-4bf5-8ad5-1e3bbbc6f263.jpg"></div>
-					<div><img data-ind="2" src="hotel/1fd96bb0-a446-41f9-b81d-3f9e43bd4bbf(1).jpg"></div>
-					<div><img data-ind="3" src="hotel/21641d33-ba30-4f02-965d-e65208e259aa.jpg"></div>
-					<div><img data-ind="4" src="hotel/6b6d3a81-853c-4616-8a22-ab7ac84760b6.jpg"></div>
-					<div><img data-ind="5" src="hotel/561cfa58-c7fe-4ba1-ba64-569ee0e514c5.jpg"></div>
+					<div><img data-ind="0" src="/imgs/hotel_img/a9a5d502-94ba-4307-83ed-03de4aab129b(1).jpg"></div>
+					<div><img data-ind="1" src="/imgs/hotel_img/4e69059e-73ea-4bf5-8ad5-1e3bbbc6f263.jpg"></div>
+					<div><img data-ind="2" src="/imgs/hotel_img/1fd96bb0-a446-41f9-b81d-3f9e43bd4bbf(1).jpg"></div>
+					<div><img data-ind="3" src="/imgs/hotel_img/21641d33-ba30-4f02-965d-e65208e259aa.jpg"></div>
+					<div><img data-ind="4" src="/imgs/hotel_img/6b6d3a81-853c-4616-8a22-ab7ac84760b6.jpg"></div>
+					<div><img data-ind="5" src="/imgs/hotel_img/561cfa58-c7fe-4ba1-ba64-569ee0e514c5.jpg"></div>
 
 				</div>
 			</div>
@@ -453,9 +453,9 @@
 				<div class="item-booking-detail clearfix">
 					<div class="room-info">
 						<div class="room-info-img">
-							<img data-show-title="酒店图片" data-images-show="hotel/798491b2-abd7-46e0-aac7-3b252d67c782.jpeg,hotel/6b15ad96-565c-4641-83d2-b088117ed734.jpeg,totel/c7db0937-c3ad-46d1-8e1b-8ccf97de620e.jpeg"
+							<img data-show-title="酒店图片" data-images-show="/imgs/hotel_img/798491b2-abd7-46e0-aac7-3b252d67c782.jpeg,hotel/6b15ad96-565c-4641-83d2-b088117ed734.jpeg,totel/c7db0937-c3ad-46d1-8e1b-8ccf97de620e.jpeg"
 							 class="img-list-ck
-		                    js-images-show-active images-show-active" src="hotel/798491b2-abd7-46e0-aac7-3b252d67c782.jpeg"
+		                    js-images-show-active images-show-active" src="/imgs/hotel_img/798491b2-abd7-46e0-aac7-3b252d67c782.jpeg"
 							 alt="">
 						</div>
 						<div class="room-info-name">
@@ -534,7 +534,7 @@
 						<div class="room-info-img">
 							<img data-show-title="酒店图片" data-images-show="https://static.lvyuetravel.com/lvyue/pms/image/201911/77158abe-e6c0-417a-94c6-cc444f220fc9.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201911/20c0be5c-2b32-4da2-8619-25001327eb72.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201911/48f28fe5-743e-43b3-9afe-2402a2e35e3d.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201911/a7e95cf9-96ab-47cb-823e-06fe905cf46b.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201911/91f3fb72-5308-4ed2-9bea-a91f7470a284.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201911/b1db610e-978b-47f3-9c2b-fc1aa66a8f7a.jpg"
 							 class="img-list-ck
-		                    js-images-show-active images-show-active" src="hotel/77158abe-e6c0-417a-94c6-cc444f220fc9.jpg"
+		                    js-images-show-active images-show-active" src="/imgs/hotel_img/77158abe-e6c0-417a-94c6-cc444f220fc9.jpg"
 							 alt="">
 						</div>
 						<div class="room-info-name">
@@ -613,7 +613,7 @@
 						<div class="room-info-img">
 							<img data-show-title="酒店图片" data-images-show="https://static.lvyuetravel.com/lvyue/pms/image/201911/9b2b68fa-a7ed-4015-8bfa-04aa0e9f0229.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201911/68b6ce96-8eba-49a2-a5aa-2cadde7ce16d.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201911/81003a50-8029-4bc0-bfe8-310a04492183.jpg"
 							 class="img-list-ck
-		                    js-images-show-active images-show-active" src="hotel/9b2b68fa-a7ed-4015-8bfa-04aa0e9f0229.jpg">
+		                    js-images-show-active images-show-active" src="/imgs/hotel_img/9b2b68fa-a7ed-4015-8bfa-04aa0e9f0229.jpg">
 						</div>
 						<div class="room-info-name">
 							<strong> 贞丰桥大床房 </strong>
@@ -691,7 +691,7 @@
 						<div class="room-info-img">
 							<img data-show-title="酒店图片" data-images-show="https://static.lvyuetravel.com/lvyue/pms/image/201911/f17575e6-21b2-4532-8988-56b8e813b9f0.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201911/05cc587a-3660-4286-b2e9-bdc602279d11.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201911/1e1fd4e8-f761-48e8-867b-4b3dac6ab153.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201911/74c4eb5f-8cb8-4d7f-bc59-413935326152.jpg"
 							 class="img-list-ck
-		                    js-images-show-active images-show-active" src="hotel/f17575e6-21b2-4532-8988-56b8e813b9f0.jpg"
+		                    js-images-show-active images-show-active" src="/imgs/hotel_img/f17575e6-21b2-4532-8988-56b8e813b9f0.jpg"
 							 alt="">
 						</div>
 						<div class="room-info-name">
@@ -770,7 +770,7 @@
 						<div class="room-info-img">
 							<img data-show-title="酒店图片" data-images-show="https://static.lvyuetravel.com/lvyue/pms/image/201904/418f1d0c-de1d-4498-870c-9f66785c8b72.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201904/88a77c10-bcca-4f7f-9950-8510d2582adc.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201904/c7cc089a-5110-4c89-a635-f1a6a1b2e14e.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201904/bc565037-94dd-4654-ae30-842c4f705dde.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201904/7ab9a76f-60d2-4889-873a-577da3f26be8.jpg"
 							 class="img-list-ck
-		                    js-images-show-active images-show-active" src="hotel/418f1d0c-de1d-4498-870c-9f66785c8b72.jpg"
+		                    js-images-show-active images-show-active" src="/imgs/hotel_img/418f1d0c-de1d-4498-870c-9f66785c8b72.jpg"
 							 alt="">
 						</div>
 						<div class="room-info-name">
@@ -849,7 +849,7 @@
 						<div class="room-info-img">
 							<img data-show-title="酒店图片" data-images-show="https://static.lvyuetravel.com/lvyue/pms/image/201904/d448ca06-9bb6-4906-941f-4ebfd6c62f0f.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201904/16868235-8cb9-46fb-9f7b-bf85ef054b84.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201904/21641d33-ba30-4f02-965d-e65208e259aa.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201904/e285f0e2-6705-4ab3-95ba-6774370fa791.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201904/226454e1-e1b6-4a52-a07d-57477312ff83.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201904/19858e31-596d-4027-9501-1cbfca5183f5.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201904/59068db8-3689-4ce2-aa43-cae8e992d1b8.jpg,https://static.lvyuetravel.com/lvyue/pms/image/201904/04b14f2a-a8c1-4e5e-87d2-286500eb9abd.jpg"
 							 class="img-list-ck
-		                    js-images-show-active images-show-active" src="hotel/d448ca06-9bb6-4906-941f-4ebfd6c62f0f.jpg">
+		                    js-images-show-active images-show-active" src="/imgs/hotel_img/d448ca06-9bb6-4906-941f-4ebfd6c62f0f.jpg">
 						</div>
 						<div class="room-info-name">
 							<strong> 富安桥家庭房 </strong>
@@ -927,7 +927,7 @@
 						<div class="room-info-img">
 							<img data-show-title="酒店图片" data-images-show=""
 							 class="img-list-ck
-		                    js-images-show-active images-show-active" src="hotel/1fd96bb0-a446-41f9-b81d-3f9e43bd4bbf.jpg">
+		                    js-images-show-active images-show-active" src="/imgs/hotel_img/1fd96bb0-a446-41f9-b81d-3f9e43bd4bbf.jpg">
 						</div>
 						<div class="room-info-name">
 							<strong> 青龙桥大床房 </strong>
@@ -1001,7 +1001,7 @@
 						<div class="room-info-img">
 							<img data-show-title="酒店图片" data-images-show=""
 							 class="img-list-ck
-		                    js-images-show-active images-show-active" src="hotel/ed28702d-5d2c-4b6a-ba3d-aa8fb1aa44ad.jpg">
+		                    js-images-show-active images-show-active" src="/imgs/hotel_img/ed28702d-5d2c-4b6a-ba3d-aa8fb1aa44ad.jpg">
 						</div>
 						<div class="room-info-name">
 							<strong> 外婆桥家庭房 </strong>
@@ -1228,7 +1228,7 @@
 							<div class="item-comment-list clearfix">
 								<div class="member pull-left">
 									<div class="avatar">
-										<img src="hotel/c065e40d-9058-458a-9aac-47c6bc597c1b.png_thumbnail.jpg">
+										<img src="/imgs/hotel_img/c065e40d-9058-458a-9aac-47c6bc597c1b.png_thumbnail.jpg">
 									</div>
 									<div class="name-level">
 										<div class="nick-name">
@@ -1278,7 +1278,7 @@
 							<div class="item-comment-list clearfix">
 								<div class="member pull-left">
 									<div class="avatar">
-										<img src="hotel/userpic.png">
+										<img src="/imgs/hotel_img/userpic.png">
 									</div>
 									<div class="name-level">
 										<div class="nick-name">
@@ -1330,7 +1330,7 @@
 							<div class="item-comment-list clearfix">
 								<div class="member pull-left">
 									<div class="avatar">
-										<img src="hotel/userpic.png">
+										<img src="/imgs/hotel_img/userpic.png">
 									</div>
 									<div class="name-level">
 										<div class="nick-name">
@@ -1387,7 +1387,7 @@
 											<strong>花粉3729</strong>
 										</div>
 										<div class="level">
-											<img src="hotel/2.png">
+											<img src="/imgs/hotel_img/2.png">
 											白金会员&nbsp;&nbsp;
 											LV2
 										</div>
@@ -1437,7 +1437,7 @@
 											<strong>花粉3025</strong>
 										</div>
 										<div class="level">
-											<img src="hotel/2.png">
+											<img src="/imgs/hotel_img/2.png">
 											白金会员&nbsp;&nbsp;
 											LV2
 										</div>
@@ -1469,15 +1469,15 @@
 									</div>
 									<div>性价比好 景区内 停车场到酒店步行大致10分钟</div>
 
-									<div data-images-show="hotel/12.jpg,hotel/13.jpg,hotel/14.jpg"
+									<div data-images-show="/imgs/hotel_img/12.jpg,/imgs/hotel_img/13.jpg,/imgs/hotel_img/14.jpg"
 									 data-show-title="评论图片" style="margin:10px 0;position:relative;height:149px;overflow:hidden;" class="clearfix js-images-show-active images-show-active
 		              ">
 
-										<img data-ind="0" class="pull-left" style="margin-right:10px;" width="240" height="149" src="hotel/12.jpg">
+										<img data-ind="0" class="pull-left" style="margin-right:10px;" width="240" height="149" src="/imgs/hotel_img/12.jpg">
 
-										<img data-ind="1" class="pull-left" style="margin-right:10px;" width="240" height="149" src="hotel/13.jpg">
+										<img data-ind="1" class="pull-left" style="margin-right:10px;" width="240" height="149" src="/imgs/hotel_img/13.jpg">
 
-										<img data-ind="2" class="pull-left" style="margin-right:10px;" width="240" height="149" src="hotel/14.jpg">
+										<img data-ind="2" class="pull-left" style="margin-right:10px;" width="240" height="149" src="/imgs/hotel_img/14.jpg">
 
 										<div style="line-height:32px;height:32px;background:rgba(0,0,0,.6);position:absolute;color:#fff;padding:0 10px;left:684px;top:117px;">共3张
 										</div>
@@ -1504,7 +1504,7 @@
 							<div class="item-comment-list clearfix">
 								<div class="public pull-left">
 									<div class="avatar">
-										<img src="hotel/userpic.png">
+										<img src="/imgs/hotel_img/userpic.png">
 									</div>
 									<div class="name-level">
 										<div class="nick-name">
@@ -1549,7 +1549,7 @@
 							<div class="item-comment-list clearfix">
 								<div class="public pull-left">
 									<div class="avatar">
-										<img src="hotel/userpic.png">
+										<img src="/imgs/hotel_img/userpic.png">
 									</div>
 									<div class="name-level">
 										<div class="nick-name">
@@ -1603,7 +1603,7 @@
 							<div class="item-comment-list clearfix">
 								<div class="public pull-left">
 									<div class="avatar">
-										<img src="hotel/userpic.png">
+										<img src="/imgs/hotel_img/userpic.png">
 									</div>
 									<div class="name-level">
 										<div class="nick-name">
@@ -1648,7 +1648,7 @@
 							<div class="item-comment-list clearfix">
 								<div class="public pull-left">
 									<div class="avatar">
-										<img src="hotel/userpic.png">
+										<img src="/imgs/hotel_img/userpic.png">
 									</div>
 									<div class="name-level">
 										<div class="nick-name">
@@ -1693,7 +1693,7 @@
 							<div class="item-comment-list clearfix">
 								<div class="public pull-left">
 									<div class="avatar">
-										<img src="hotel/userpic.png">
+										<img src="/imgs/hotel_img/userpic.png">
 									</div>
 									<div class="name-level">
 										<div class="nick-name">
@@ -1751,9 +1751,9 @@
 			<div class="content clearfix">
 				<div class="left">
 					<div class="footer-logo">
-						<img class="logo" src="hotel/logo.png">
+						<img class="logo" src="/imgs/hotel_img/logo.png">
 						<i class="line"></i>
-						<img class="img-s" src="hotel/dnkss.png">
+						<img class="img-s" src="/imgs/hotel_img/dnkss.png">
 					</div>
 					<p>
 						花筑旅行网是旅悦集团旗下酒店官方预订平台，旗下品牌包含：花筑、索性、蔚徕、柏纳。更是涵盖目的地攻略、当地玩乐、旅拍交友等吃、住、行、游、购、娱于一体的真实旅途互动社区，后续将提供景点门票、机票、接车、保险、定制游等旅行产品打包服务。截止目前，旅悦集团旗下酒店品牌全球开店1100多家，覆盖中国、日本、韩国、泰国、印度、马来西亚、澳大利亚等10多个国家、200多个目的地，从经济实惠酒店到中高端特色酒店俱全，全方位满足客户个性化、多样化的出游住宿需求。</p>
@@ -1777,12 +1777,12 @@
 						<li>
 							<strong>品牌介绍</strong><br>
 							<a rel="nofollow" target="_blank" href="https://group.lvyuetravel.com/flowerBuilding.html" title="花筑"><img style="width: 52px; height: 20px;"
-								 src="hotel/hzx.png" alt="花筑"></a><br>
+								 src="/imgs/hotel_img/hzx.png" alt="花筑"></a><br>
 							<a rel="nofollow" target="_blank" href="https://group.lvyuetravel.com/simply.html" title="索性"><img style="width: 45px; height: 21px;"
-								 src="hotel/sxx.png" alt="索性"></a><br>
+								 src="/imgs/hotel_img/sxx.png" alt="索性"></a><br>
 							<a rel="nofollow" target="_blank" href="https://group.lvyuetravel.com/weiLai.html" title="蔚徕酒店"><img style="width: 82px; height: 19px;"
-								 src="hotel/ylx.png" alt="蔚徕"></a>
-							<a rel="nofollow" target="_blank" title="柏纳酒店"><img style="width: 90px; height: 14px;" src="hotel/bnx.png"
+								 src="/imgs/hotel_img/ylx.png" alt="蔚徕"></a>
+							<a rel="nofollow" target="_blank" title="柏纳酒店"><img style="width: 90px; height: 14px;" src="/imgs/hotel_img/bnx.png"
 								 alt="柏纳"></a>
 						</li>
 					</ul>
@@ -1791,15 +1791,15 @@
 					<h3>客服热线：<strong class="hot-tel">400-898-7118</strong></h3>
 					<div class="qr-code">
 						<dl>
-							<dt><img src="hotel/appqrcode.png" alt="下载花筑旅行APP"></dt>
+							<dt><img src="/imgs/hotel_img/appqrcode.png" alt="下载花筑旅行APP"></dt>
 							<dd>下载花筑旅行APP</dd>
 						</dl>
 						<dl>
-							<dt><img src="hotel/wechar.png" alt="关注微信公众号"></dt>
+							<dt><img src="/imgs/hotel_img/wechar.png" alt="关注微信公众号"></dt>
 							<dd>关注微信公众号</dd>
 						</dl>
 						<dl>
-							<dt><img src="hotel/xcxcode.png" alt="打开微信小程序"></dt>
+							<dt><img src="/imgs/hotel_img/xcxcode.png" alt="打开微信小程序"></dt>
 							<dd>打开微信小程序</dd>
 						</dl>
 					</div>
@@ -1814,7 +1814,7 @@
 			</div>
 		</footer>
 		<div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"></div>
-		<div class="showWrapper" style="left: 528px; top: 590px; z-index: 5; display: none;"><img class="showimg" src="./hotel/a9a5d502-94ba-4307-83ed-03de4aab129b.jpg"></div>
+		<div class="showWrapper" style="left: 528px; top: 590px; z-index: 5; display: none;"><img class="showimg" src=".//imgs/hotel_img/a9a5d502-94ba-4307-83ed-03de4aab129b.jpg"></div>
 		<div class="back-top js-back-top" style="display: none;"></div>
 	</body>
 </html>

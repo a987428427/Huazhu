@@ -1,0 +1,450 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	height: 58px;
+	background: #fff;
+}
+header .user-set a{
+	margin: 0 10px;
+}
+header .user-set .link{
+	margin-right: 10px;
+}
+header .logo{
+	float: left;
+	display: table-cell;
+	vertical-align: middle;
+	margin-top: 5px;
+	font-size: 0;
+}
+header >div {
+    width: 1180px;
+    height: 100%;
+    margin: 0 auto;
+}
+h1,h2,h3,h4,h5,h6{
+	color: rgba(0,0,0,.85);
+	font-weight: 500;
+}
+a{
+	color: #666666;
+	background: 0 0;
+	text-decoration: none;
+	outline: 0;
+	cursor: pointer;
+	transition: color .3s ease;
+}
+.clearfix:after, .clearfix:before {
+    content: " ";
+    display: table;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.clearfix:after {
+    clear: both;
+    visibility: hidden;
+    font-size: 0;
+    height: 0;
+}
+header .logo img{
+	margin-right:15px ;
+}
+header .logo .companyName {
+    position: relative;
+    padding-left: 15px;
+    display: inline-block;
+}
+header .logo .companyName:before {
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 21px;
+    left: -1px;
+    top: 6px;
+    background: #cecece;
+}
+nav ul {
+    width: 1180px;
+    margin: 0 auto;
+	height: 40px;
+}
+ul {
+    list-style: none;
+}
+nav{
+	min-width: 1180px;
+	background: #f8c245;
+}
+nav ul li{
+    float: left;
+    line-height: 40px;
+    padding: 0 16px;
+}
+nav ul a {
+	color: #fff;
+    font-size: 15px;
+}
+nav ul li.active {
+    background: #ffa303;
+}
+article, aside, footer, header, nav, section {
+    display: block;
+}
+.clearfix {
+    zoom: 1;
+}
+header .user-set{
+	float: right;
+	align-items: center;
+	line-height: 59px;
+	display: flex;
+}
+.member-content{
+	width: 1180px;
+	background: #fff;
+	border-radius: 4px;
+	margin: 10px auto 40px;
+	padding: 28px 0 0;
+}
+.member-content h1{
+	text-align: center;
+	font-size: 30px;
+	font-weight: 600;
+	color: #666;
+	line-height: 42px;
+}
+.member-content .member-wrap h2{
+	font-size: 20px;
+	color: #666;
+	line-height: 28px;
+	font-weight: 600;
+	border-left: 6px solid #f8c245;
+	padding-left: 14px;
+	box-sizing: border-box;
+}
+.member-content .member-wrap .dengji .box {
+    margin-top: 10px;
+}
+.member-content .member-wrap .box {
+    padding: 0 20px 40px;
+    color: #666;
+    font-size: 14px;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-head span {
+    display: inline-block;
+    width: 56px;
+    height: 26px;
+    background: #ddd;
+    color: #fff;
+    text-align: center;
+    line-height: 26px;
+    border-radius: 4px;
+    position: relative;
+    z-index: 2;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-head {
+    text-align: center;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li {
+    width: 273px;
+	height: 942px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .top-info h3 img {
+    width: 28px;
+    height: 27px;
+    margin-right: 5px;
+    vertical-align: bottom;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .top-info h3 {
+    text-align: center;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li.quanyi-dengji1 .quanyi-detail-wrap .top-info>p {
+    background: #ffd978;
+    color: #ab7209;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li.quanyi-dengji2 .quanyi-detail-wrap .top-info>p {
+    background: #ffebdd;
+    color: #e3792d;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li.quanyi-dengji3 .quanyi-detail-wrap .top-info>p {
+    background: #d5eeff;
+    color: #214194;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li.quanyi-dengji4 .quanyi-detail-wrap .top-info>p {
+    background: #f4dfbf;
+    color: #555;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .top-info>p {
+    text-align: center;
+    width: 116px;
+    height: 25px;
+    line-height: 25px;
+    margin: 1px auto 0;
+    border-radius: 13px;
+    position: relative;
+    top: 13px;
+    font-size: 12px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li.quanyi-dengji1 .quanyi-detail-wrap .top-info ul {
+    background: #fffcf3;
+    color: #8b572a;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .top-info ul {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 249px;
+    height: 77px;
+    border-radius: 4px;
+    padding: 23px 18px 10px;
+    text-align: center;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap:before {
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: -1px;
+    width: 273px;
+    height: 10px;
+    border-radius: 4px 4px 0 0;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+* {
+    -webkit-tap-highlight-color: transparent;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap {
+    border: 1px solid #eaeaea;
+    border-radius: 0 0 4px 4px;
+    margin-top: 20px;
+    position: relative;
+    padding-top: 21px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .basic h3, .member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand h3 {
+    text-align: center;
+    color: #666;
+    font-weight: 500;
+    font-size: 16px;
+    position: relative;
+}
+.basic .member-wrap3 img{
+	width: 25px;
+	height: 25px;
+}
+.basic .member-wrap3 dt{
+	width: 65px;
+	height:30px;
+	text-align: center;
+}
+.basic .member-wrap3 d1{
+    width: 65px;
+    text-align: center;
+    margin-left: 1px;
+    margin-bottom: 31px;	
+	float: left;
+}
+div.box{
+	width: 1180px;
+	height: 1479px;
+}
+.box p{
+	font: 14px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap{
+	height: 896px;;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li.quanyi-dengji1 .quanyi-detail-wrap:before {
+    background: linear-gradient(315deg,#ffd542,#ffaf47);
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li.quanyi-dengji2 .quanyi-detail-wrap:before {
+    background: linear-gradient(315deg,#ffe0aa,#fdb688);
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li.quanyi-dengji3 .quanyi-detail-wrap:before {
+    background: linear-gradient(134deg,#58c8ff,#4a8eff);
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li.quanyi-dengji4 .quanyi-detail-wrap:before {
+    background: linear-gradient(134deg,#666169,#474747);
+}
+.member-wrap3{
+	height: 240px;
+}
+.brand{
+	height: 331px;
+}
+.brand-wrap{
+	height: 291px;
+}
+body {
+    font-family: Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+    font-size: 12px;
+    line-height: 1.5;
+    color: rgba(0,0,0,.65);
+    background-color: #fafafa;
+}
+.friend-link{
+	width: 1180px;
+	margin: 20px auto;
+	background-color: #fafafa;
+}
+.friend-link p {
+	margin-bottom: 20px;
+	font-size: 14px;
+}
+.friend-link div p {
+    float: left;
+    width: 196px;
+    margin-bottom: 10px;
+    color: #aaa;
+}
+.clearfix:before {
+    content: " ";
+    display: table;
+}
+
+
+
+footer {
+    font-size: 14px;
+    color: #aaa;
+    background: #fff;
+}
+footer .content .left {
+    float: left;
+    width: 760px;
+}
+footer .left .footer-logo {
+    height: 75px;
+    display: table-cell;
+    vertical-align: middle;
+}
+footer .left .footer-logo>* {
+    display: inline-block;
+    vertical-align: middle;
+}
+footer .left .footer-logo .logo {
+    width: 130px;
+    height: 41px;
+}
+footer .left .footer-logo .line {
+    width: 2px;
+    height: 21px;
+    margin: 0 12px;
+    background: #cecece;
+}
+footer .left .footer-logo .img-s {
+    width: 99px;
+    height: 24px;
+}
+footer .left p{
+	margin-bottom: 10px;
+	padding-right: 30px;
+	line-height: 28px;
+	color: #aaa;
+}
+footer .left hr {
+    width: 730px;
+    border: 0;
+    border-top: 1px solid #eaeaea;
+    margin-bottom: 30px;
+}
+footer .left .footer-title li {
+    float: left;
+    width: 223.33px;
+}
+footer .footer-title li:last-child {
+    width: 90px;
+}
+footer .footer-title li a, footer .footer-title li strong {
+    display: inline-block;
+    margin-bottom: 10px;
+    color: #666;
+}
+footer .footer-title li a {
+    color: #aaa;
+}
+footer .right .qr-code dl dt img {
+    width: 115px;
+    height: 115px;
+}
+img {
+    border-style: none;
+}
+footer .right .qr-code {
+    display: flex;
+    justify-content: space-between;
+}
+footer .hot-tel {
+    margin-bottom: 17px;
+    font-size: 20px;
+    color: #333;
+}
+footer .right {
+    position: relative;
+    float: left;
+    padding-left: 20px;
+    width: 420px;
+}
+footer .right h3 {
+    margin: 20px 0 17px;
+    color: #aaa;
+    font-size: 20px;
+}
+footer .right .qr-code dl {
+    width: 120px;
+    text-align: center;
+}
+footer .right .qr-code dl dt {
+    margin-bottom: 5px;
+}
+footer .content {
+    width: 1180px;
+    margin: 0 auto;
+}
+footer .regist-address {
+    padding: 20px;
+    border-top: 1px solid #eaeaea;
+    text-align: center;
+    font-size: 14px;
+}
+footer .regist-address p:first-child {
+    margin-bottom: 5px;
+}
+footer .regist-address small {
+    font-size: 12px;
+}
+header .user-set a.link {
+    color: #4a90e2;
+    padding: 0;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand h3:after {
+    content: "";
+    position: absolute;
+    width: 50px;
+    height: 1px;
+    background: #eee;
+    top: 10px;
+    right: 45px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand h3:before {
+    content: "";
+    position: absolute;
+    width: 50px;
+    height: 1px;
+    background: #eee;
+    top: 10px;
+    left: 45px;
+}
+footer .right .qr-code dl dt img {
+    width: 115px;
+    height: 115px;
+}

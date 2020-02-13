@@ -63,11 +63,11 @@
 				<!-- 主体 class="bd"-->
 				<div class="bd">
 					<ul>
-						<li><img src="imgs/minsujie01.png" alt="" title="1119民宿节"></li>
-						<li><img src="imgs/minsu02.jpg" alt="" title="民宿节包场6折起"></li>
-						<li><img src="imgs/huiyuan03.png" alt="" title="会员中心"></li>
-						<li><img src="imgs/huazhu04.png" alt="" title="品牌"></li>
-						<li><img src="imgs/bona05.png" alt="" title="品牌"></li>
+						<li><img src="imgs/index_img/minsujie01.png" alt="" title="1119民宿节"></li>
+						<li><img src="imgs/index_img/minsu02.jpg" alt="" title="民宿节包场6折起"></li>
+						<li><img src="imgs/index_img/huiyuan03.png" alt="" title="会员中心"></li>
+						<li><img src="imgs/index_img/huazhu04.png" alt="" title="品牌"></li>
+						<li><img src="imgs/index_img/bona05.png" alt="" title="品牌"></li>
 					</ul>
 				</div>
 			</div>
@@ -127,7 +127,7 @@
 					<div class="search-box">
 						<div class="download">
 							<span class="download-app">下载APP享更多优惠</span>
-							<img class="download-code" src="imgs/appqrcode.png" >
+							<img class="download-code" src="imgs/index_img/appqrcode.png" >
 						</div>
 						<input type="submit" id="search-now" name="" value="立即搜索"/>
 					</div>
@@ -159,7 +159,7 @@
 						<a href="#" class="click-link"></a>
 						<dl>
 							<dt>
-								<img src="imgs/hotel01.jpg" alt="酒店">
+								<img src="imgs/index_img/hotel01.jpg" alt="酒店">
 								<div class="activities">
 									<span>连住2天及以上8折</span>
 								</div>
@@ -181,7 +181,7 @@
 						<a href="#" class="click-link"></a>
 						<dl>
 							<dt>
-								<img src="imgs/hotel02.jpg" alt="酒店">
+								<img src="imgs/index_img/hotel02.jpg" alt="酒店">
 								<div class="activities">
 									<span>连住2天及以上8折</span>
 								</div>
@@ -203,7 +203,7 @@
 						<a href="#" class="click-link"></a>
 						<dl>
 							<dt>
-								<img src="imgs/hotel03.jpg" alt="酒店">
+								<img src="imgs/index_img/hotel03.jpg" alt="酒店">
 								<div class="activities">
 									<span>连住2天及以上8折</span>
 								</div>
@@ -250,7 +250,7 @@
 						<div class="card-city-item">
 							<a href="#" class="click-link"></a>
 							<div class="hotel-img">
-								<img src="imgs/city-hotel-01.jpg" alt="酒店">
+								<img src="imgs/index_img/city-hotel-01.jpg" alt="酒店">
 								<p class="hotel-name">Vyluk·J蔚徕酒店(深圳北站龙华壹城中心店)</p>
 							</div>
 							<div class="hotel-score-price">
@@ -265,7 +265,7 @@
 						<div class="card-city-item">
 							<a href="#" class="click-link"></a>
 							<div class="hotel-img">
-								<img src="imgs/city-hotel-01.jpg" alt="酒店">
+								<img src="imgs/index_img/city-hotel-01.jpg" alt="酒店">
 								<p class="hotel-name">Vyluk·J蔚徕酒店(深圳北站龙华壹城中心店)</p>
 							</div>
 							<div class="hotel-score-price">
@@ -280,7 +280,7 @@
 						<div class="card-city-item">
 							<a href="#" class="click-link"></a>
 							<div class="hotel-img">
-								<img src="imgs/city-hotel-01.jpg" alt="酒店">
+								<img src="imgs/index_img/city-hotel-01.jpg" alt="酒店">
 								<p class="hotel-name">Vyluk·J蔚徕酒店(深圳北站龙华壹城中心店)</p>
 							</div>
 							<div class="hotel-score-price">
@@ -295,7 +295,7 @@
 						<div class="card-city-item">
 							<a href="#" class="click-link"></a>
 							<div class="hotel-img">
-								<img src="imgs/city-hotel-01.jpg" alt="酒店">
+								<img src="imgs/index_img/city-hotel-01.jpg" alt="酒店">
 								<p class="hotel-name">Vyluk·J蔚徕酒店(深圳北站龙华壹城中心店)</p>
 							</div>
 							<div class="hotel-score-price">
@@ -310,7 +310,7 @@
 						<div class="card-city-item">
 							<a href="#" class="click-link"></a>
 							<div class="hotel-img">
-								<img src="imgs/city-hotel-01.jpg" alt="酒店">
+								<img src="imgs/index_img/city-hotel-01.jpg" alt="酒店">
 								<p class="hotel-name">Vyluk·J蔚徕酒店(深圳北站龙华壹城中心店)</p>
 							</div>
 							<div class="hotel-score-price">
@@ -325,7 +325,7 @@
 						<div class="card-city-item">
 							<a href="#" class="click-link"></a>
 							<div class="hotel-img">
-								<img src="imgs/city-hotel-01.jpg" alt="酒店">
+								<img src="imgs/index_img/city-hotel-01.jpg" alt="酒店">
 								<p class="hotel-name">Vyluk·J蔚徕酒店(深圳北站龙华壹城中心店)</p>
 							</div>
 							<div class="hotel-score-price">
@@ -346,7 +346,7 @@
 			<div class="middle-aside">
 				<dl class="user-info">
 					<dt class="user-pic">
-						<img src="imgs/userpic.png" alt="">
+						<img src="imgs/index_img/userpic.png" alt="">
 					</dt>
 					<dd>
 						<p><strong>欢迎您！尊敬的会员～</strong></p>
@@ -360,7 +360,7 @@
 						<li>
 							<a href="#"></a>
 							<div class="img-box">
-								<img src="imgs/hotel0001.png">
+								<img src="imgs/index_img/hotel0001.png">
 								<p>桂林</p>
 								<strong class="hotel-top">1</strong>
 							</div>
@@ -375,7 +375,7 @@
 						<li>
 							<a href="#"></a>
 							<div class="img-box">
-								<img src="imgs/hotel0001.png">
+								<img src="imgs/index_img/hotel0001.png">
 								<p>桂林</p>
 								<strong class="hotel-top">2</strong>
 							</div>
@@ -390,7 +390,7 @@
 						<li>
 							<a href="#"></a>
 							<div class="img-box">
-								<img src="imgs/hotel0001.png">
+								<img src="imgs/index_img/hotel0001.png">
 								<p>桂林</p>
 								<strong class="hotel-top">3</strong>
 							</div>
@@ -405,7 +405,7 @@
 						<li>
 							<a href="#"></a>
 							<div class="img-box">
-								<img src="imgs/hotel0001.png">
+								<img src="imgs/index_img/hotel0001.png">
 								<p>桂林</p>
 								<strong>4</strong>
 							</div>
@@ -420,7 +420,7 @@
 						<li>
 							<a href="#"></a>
 							<div class="img-box">
-								<img src="imgs/hotel0001.png">
+								<img src="imgs/index_img/hotel0001.png">
 								<p>桂林</p>
 								<strong>5</strong>
 							</div>
@@ -435,7 +435,7 @@
 						<li>
 							<a href="#"></a>
 							<div class="img-box">
-								<img src="imgs/hotel0001.png">
+								<img src="imgs/index_img/hotel0001.png">
 								<p>桂林</p>
 								<strong>6</strong>
 							</div>
@@ -450,7 +450,7 @@
 						<li>
 							<a href="#"></a>
 							<div class="img-box">
-								<img src="imgs/hotel0001.png">
+								<img src="imgs/index_img/hotel0001.png">
 								<p>桂林</p>
 								<strong>7</strong>
 							</div>

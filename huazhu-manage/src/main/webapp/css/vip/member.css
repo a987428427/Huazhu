@@ -1,0 +1,165 @@
+.member-content .member-wrap .dengji ul.quanyi-detail{
+	margin-top: 40px;
+	    display: -ms-flexbox;
+	    display: flex;
+	    -ms-flex-pack: justify;
+	    justify-content: space-between;
+	    position: relative;
+	    padding-bottom: 10px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand div ul {
+    display: -ms-flexbox;
+    display: flex;
+    width: 253px;
+    margin: 0 auto;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand div ul li.current {
+    background: #ffc824;
+    color: #fff;
+    font-weight: 600;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand div ul li {
+    width: 77px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    background: #fafafa;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand div ul li {
+    width: 77px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    background: #fafafa;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .basic div dl{
+    width: 65px;
+    text-align: center;
+    margin-left: 1px;
+    margin-bottom: 31px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand div dl{
+	width: 65px;
+	text-align: center;
+	margin-left: 1px;
+	margin-bottom: 31px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .basic div dl dt img, .member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand div dl dt img {
+    width: 25px;
+    height: 25px;
+}
+.brand-wrap .aaa {
+	width: 132px;
+	height: 240px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand div .rights.current {
+    display: -ms-flexbox;
+    display: flex;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand div .rights-wrap3 {
+    height: 240px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand div .rights {
+    display: none;
+    -ms-flex-line-pack: start;
+    align-content: start;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .basic div, .member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand div {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-line-pack: start;
+    align-content: start;
+    margin-top: 16px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .basic div dl dd, .member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .brand div dl dd {
+    font-size: 11px;
+}
+.member-content .member-wrap .dengji ul.quanyi-detail>li .quanyi-detail-wrap .hint {
+    border-top: 1px solid #eee;
+    width: 253px;
+    margin: 0 auto;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    font-size: 15px;
+}
+.member-content .member-wrap table.table0 {
+    width: 1140px;
+}
+.member-content .member-wrap table {
+    margin: 10px 0 30px;
+    border: 1px solid #eaeaea;
+    border-radius: 4px;
+}
+.member-content .member-wrap table thead td:first-child {
+    border-top-left-radius: 4px;
+}
+.member-content .member-wrap table thead td {
+    background: #f7fafd;
+    height: 50px;
+    padding-left: 30px;
+    color: #a1b2b9;
+    font-weight: 600;
+}
+.member-content .member-wrap table tbody td {
+    height: 50px;
+    padding-left: 30px;
+    border-top: 1px solid #eaeaea;
+    color: #666;
+}
+.member-content .member-wrap table tbody td+td {
+    border-left: 1px solid #eaeaea;
+}
+.member-content .member-wrap .dengji ul.memberJi {
+    width: 1140px;
+    display: flex;
+	justify-content: space-between;
+}
+.member-content .member-wrap .dengji ul.memberJi li.memberBgJi1 {
+    background: url(../img/memberBgJi2.png) no-repeat 50%;
+    background-size: 273px 113px;
+}
+.member-content .member-wrap .dengji ul.memberJi li.memberBgJi2 {
+    background: url(../img/memberBgJi1.png) no-repeat 50%;
+    background-size: 273px 113px;
+}
+.member-content .member-wrap .dengji ul.memberJi li.memberBgJi3 {
+    background: url(../img/memberBgJi4.png) no-repeat 50%;
+    background-size: 273px 113px;
+}
+.member-content .member-wrap .dengji ul.memberJi li.memberBgJi4 {
+    background: url(../img/memberBgJi3.png) no-repeat 50%;
+    background-size: 273px 113px;
+}
+.member-content .member-wrap .dengji ul.memberJi li {
+    width: 273px;
+    height: 113px;
+    padding: 15px;
+    color: #fff;
+}
+.member-content .member-wrap .gongshi .box {
+    margin: 20px 0 0 21px;
+}
+.member-content .member-wrap .box {
+    padding: 0 20px 40px;
+    color: #666;
+    font-size: 14px;
+}
+.member-content .member-wrap .gongshi .box img {
+    width: 400px;
+    height: 81px;
+}
+div .gongshi{
+	height: 174px;
+}
+.member-content .member-wrap .baodian .box {
+    padding-top: 20px;
+	height: 457px;
+}
+
