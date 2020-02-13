@@ -6,7 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>huazhu-manage</module>
-  	<module>huazhu-commmon</module>
+  	<module>huazhu-common</module>
   </modules>
   
   <!--稍后引入公共的jar包程序 -->
