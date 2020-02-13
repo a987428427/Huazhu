@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import com.huazhu.SpringBootRun;
 
 @SpringBootApplication
-@MapperScan("com.jt.mapper")
+@MapperScan("com.huazhu.mapper")
 public class SpringBootRun {
 	
 	public static void main(String[] args) {
